@@ -24,7 +24,7 @@ function renderRecipe(recipe) {
   divR.appendChild(divMaterial);
 
   const divDir = document.createElement("div");
-  divDir.textContent = "Direction";
+  divDir.textContent = "Directions";
   divDir.setAttribute("style", "font-weight:550;margin-top:2%");
   divR.appendChild(divDir);
 
