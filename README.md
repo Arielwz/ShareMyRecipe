@@ -14,7 +14,7 @@
 - Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 - Professor: John Alexis Guerra Gómez
 - Video Demo: 
-- Slides:
+- Slides: https://docs.google.com/presentation/d/12KEy4TcSbNKWQEuQD89F4C3zQPCCgJMJRqLpLp0owLo/edit?usp=sharing
 
 ## 2. Technologies
 - HTML5
