@@ -40,3 +40,7 @@
 <img width="80%" alt="sign-in" src="https://user-images.githubusercontent.com/51281099/111217722-1db4b180-8593-11eb-824f-f7c57da03569.png">
 2. Sign Up page
 <img width="80%" alt="sign-up" src="https://user-images.githubusercontent.com/51281099/111217140-7899d900-8592-11eb-91b6-44a976380e04.png">
+3. View Recipe page
+<img width="80%" alt="view-recipe" src="https://user-images.githubusercontent.com/51281099/111235690-675ec580-85ae-11eb-8dfa-ab13f42a82a3.jpg">
+4. Create Recipe page
+<img width="768" alt="creat-recipe" src="https://user-images.githubusercontent.com/51281099/111235706-76de0e80-85ae-11eb-8de6-ce969422cc57.png">
