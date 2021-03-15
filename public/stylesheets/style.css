@@ -1,0 +1,32 @@
+/* for login and regist pages */
+
+body {
+  background-image: url("../images/bg1.JPEG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  text-align: left;
+  margin-top: 15%;
+}
+
+.box {
+  margin-left: 5%;
+  margin-top: 7%;
+  margin-bottom: 7%;
+  padding: 50px;
+}
+
+.secondfont {
+  font-size: 18px;
+}
+
+.center-font {
+  text-align: center;
+}
+
+footer {
+  color: #929496;
+  font-size: 15px;
+}
