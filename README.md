@@ -13,7 +13,7 @@
 - Project Objective: Develop and deploy a recipe sharing web-app, allowing users to share recipes with pictures.
 - Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 - Professor: John Alexis Guerra Gómez
-- Video Demo: 
+- Video Demo: https://www.youtube.com/watch?v=laWjCxUWvWY
 - Slides: https://docs.google.com/presentation/d/12KEy4TcSbNKWQEuQD89F4C3zQPCCgJMJRqLpLp0owLo/edit?usp=sharing
 
 ## 2. Technologies
