@@ -37,10 +37,13 @@ function MyDB() {
       console.log("Connected!");
       const db = client.db(DB_NAME); //select specific database
       const usersCol = db.collection("usersinfo"); //get the collection
-
-      console.log("Collection ready, querying with ", query);
+      /* 
+      It's a good idea to keep some logs such as errors in the try catch section, which will definitely help developers to target the bugs.
+      But I recommend to remove all the unneccesary {console.log} in the project after it got deployed. 
+     
+      */
       const users = await usersCol.find(query).toArray(); //get users in the collection
-      console.log("Got users", users);
+
 
       return users;
     } finally {
