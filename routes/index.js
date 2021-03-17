@@ -3,6 +3,12 @@ var router = express.Router();
 
 const myDB = require("../db/MyDB.js");
 
+/* 
+Some further suggestions for authentication. It's highly recommended to not store the original password in the database
+since there's a high risk of password leaks. Try to do some simple hash on your own or include some hash packages such as 
+bcrypt, or even passport.js in your future app. :)
+*/
+
 // login
 router.post("/login", async (req, res) => {
   const userInfo = req.body;
